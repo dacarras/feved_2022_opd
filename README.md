@@ -7,7 +7,7 @@ en la sala de clases. Ilustraciones con la medida de apertura a la
 discusión del estudio ICCS 2016. Presentación ante el 1er seminario
 FEVED. Nuevas Perspectivas en Evaluación Educacional.
 
--   [slides](https://www.dropbox.com/s/ost2oxo0zcocgn1/feved_2022_opd_04.pdf?dl=1)
+-   [slides](https://www.dropbox.com/s/o0vbba7esxavsxz/feved_2022_opd_04_plain.pdf?dl=1)
 -   [publicación](https://link.springer.com/chapter/10.1007/978-3-030-74772-5_41)
 
 > Carrasco, D., Treviño, E., López Hornickel, N., & Castillo, C. (2021).
